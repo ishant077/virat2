@@ -1,0 +1,22 @@
+<html>
+<head><tilte>Illustrate List Tags</title></head>
+<body bgcolor="#33FF99">
+<h2><font color=green>An ordered List</font></h2>
+<ol>
+<li>Milk</li>
+<li>Coffee</li>
+<li>Tea</li>
+</ol>
+<h2><font color=red>An Unordered List</font></h2>
+<ul>
+<li>Milk</li>
+<li>Coffee</li>
+<li>Tea</li>
+</ul>
+<h2><fontcolor=green>An DefinitionList</font></h2>
+<dl>
+<dt><font color=maroon>WWW</font></dt>
+<dd><font color="#00KK99">WWW stands for World Wide Web</font></dd>
+</dl>
+</body>
+</html>

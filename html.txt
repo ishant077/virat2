@@ -1,0 +1,27 @@
+<html>
+<head><title>poem</title></head>
+<body bgcolor="#yellow">
+<br/>
+<font color="skyblue" size="8" face="cooper blank">Twinkle,Twinkle,Little star
+</font><br/><br/><br/>
+<font color="lightgreen" size="8" face="freestyle script"><p>Twinkle,twinkle,little star<br>
+How i wonder what you are!<br>Up above the world so high,<br>
+Like a daimond in the sky.</p><br>
+<p>When the blazing sun is gone,<br>
+when the nothig shines upon,<br>
+Then you show your little light,<br>
+Twinkle,twinkle,all the night.</p><br>
+<p>then the traveller in the dark,<br>
+thanks you for your tiny spark,<br>
+he could not see which way to go,<br>
+if you did not twinkle so.</p><br>
+<p>in the dark blue sky you keep,<br>
+And often thro, my curtains peep,<br>
+for you never shut your eye,<br>
+Till the sun is in the sky.</p><br>
+<p>'Tis your bright and tiny spark,<br>
+Lights the trav'ller in the dark,<br>
+Tho' i know not what you are,<br>
+Twinkle,Twinkle,little star.</p><br></font>
+</body></html>
+
