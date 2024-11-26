@@ -1,1 +1,28 @@
-i am annad
+i am annad mandal i from nepal at janakpur dahm sita matha ke ghar
+import React,{useState}from "react";
+function App(){
+  const[name,setName]=useState("shiv");
+  return(
+    <div>
+      <h1>my name is {name}</h1>
+      click hear to
+      <button on click={() => setName("ishant x")}>Update Name</button>
+      </div>
+  );
+}
+export default App;
+
+
+
+import React, { useState } from "react"; 
+function App() { 
+const [name, setName] = useState("Vikas"); 
+ return ( 
+ <div> 
+ <h2>My Name is {name}</h2> 
+ Click here to 
+ <button onClick={() => setName("Xander")}>Update Name</button> 
+ </div> 
+ ); 
+} 
+export default App;
